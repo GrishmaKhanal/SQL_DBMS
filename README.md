@@ -2,6 +2,8 @@
 
 This assignment is for the course 'Database Management System,' which is taken during the sixth semester of the Computer Engineering program at Tribhuvan University, Institute of Engineering.
 
+### Name: Grishma Raj Khanal (076BCT016)
+
 The questions for this assignement can be found at link: [here](https://tinyurl.com/cnxypw3e) 
 
 ### The Output Table is:
